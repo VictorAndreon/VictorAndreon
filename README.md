@@ -1,14 +1,15 @@
-<img src="cards/whoami.svg" alt="Sobre: Victor Hugo Andreon, Desenvolvedor Full-Stack, IA aplicada" width="100%">
+**Full-stack developer (Laravel · PostgreSQL · React) moving into applied AI.**
 
-<img src="cards/destaques.svg" alt="Destaques: pedido por voz com LLM, busca com pgvector, query PostgreSQL de 120 s para 0,3 s" width="100%">
+### Things I've built
+- **Voice ordering** — audio → transcription → LLM → structured JSON order
+- **Semantic product search** — pgvector + pg_trgm, top-3 ranking, ~80% hit rate in tests
+- **Query optimization** — PostgreSQL report from 120 s to 0.3 s (EXISTS → JOIN + temp table)
+- **[Clawd-mini](https://github.com/VictorAndreon/Clawd-mini)** — Linux desktop mascot that reacts to Claude Code (TypeScript, Electron)
 
-<img src="cards/stack.svg" alt="Stack: PHP, Laravel, PostgreSQL, React, OpenAI API, pgvector" width="100%">
+### Stack
+PHP · Laravel · PostgreSQL · React · OpenAI API
 
-<a href="https://github.com/VictorAndreon?tab=repositories"><img src="cards/projetos.svg" alt="Projetos: Clawd-mini e orquestrador por prioridade" width="100%"></a>
+### Currently
+Going deeper on LLMs, RAG and agents.
 
-<p align="center">
-  <a href="https://github.com/VictorAndreon/Clawd-mini">Clawd-mini</a> ·
-  <a href="https://github.com/VictorAndreon/projeto-TOO-orquestrador-usina-prioridade">Orquestrador</a> ·
-  <a href="https://linkedin.com/in/victor-hugo-andreon-de-camargo">LinkedIn</a> ·
-  victorcamargoandreon@gmail.com
-</p>
+📫 victorcamargoandreon@gmail.com · [LinkedIn](https://linkedin.com/in/victor-hugo-andreon-de-camargo) · Brazil (UTC-3)
