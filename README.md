@@ -1,4 +1,4 @@
-<img src="cards/whoami.svg" alt="whoami: Victor Hugo Andreon, Desenvolvedor Full-Stack, IA aplicada" width="100%">
+<img src="cards/whoami.svg" alt="Sobre: Victor Hugo Andreon, Desenvolvedor Full-Stack, IA aplicada" width="100%">
 
 <img src="cards/destaques.svg" alt="Destaques: pedido por voz com LLM, busca com pgvector, query PostgreSQL de 120 s para 0,3 s" width="100%">
 
